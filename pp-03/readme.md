@@ -43,5 +43,5 @@ in pixels?
         font-size: 0.888em;
       }
       figure h2 {
-        font-size: 1.4375em;
+        font-size: 1.4375em; /* 23px to 1.4375em */
       }
