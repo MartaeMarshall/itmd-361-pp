@@ -8,3 +8,32 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* stylelint-enable */
 
 /* ===== BASE STYLES ===== */
+
+/* 
+  Setting type to a minor second modular scale
+  http://www.modularscale.com/?1&em&1.067&web&text
+*/
+
+html { /* Provides global customs of the html documents */
+  font-size: 1.0625em;  /* 17px */
+  line-height: 1.2791em; /* 22px - 1 gridline / 17px */
+  padding: 1.2791em 0.8823em;  /* 16.5px */
+}
+
+h1 { /* Provides customization of whatever h1 is labled as */
+  font-size: 1.913em; /* 30.608px */
+  line-height: 1.4375em; /* 44px @ 30.608px */
+}
+
+p, /* Provides spacing underneath paragraph and unordered list elements */
+ul {
+  padding-bottom: 1.2791em; /* 22px */
+}
+
+li { /* Provides spacing underneath list elements */
+  padding-bottom: 0.6471em; /* 11px - half a gridline */
+}
+
+li:last-child { /* Provides spacing underneath the last li element */
+  padding-bottom: 0;
+}
