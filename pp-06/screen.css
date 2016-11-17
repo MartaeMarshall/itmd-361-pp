@@ -29,29 +29,29 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* ==== LAYOUT STYLES ==== */
 #content {
   display: flex;
+  flex-direction: column-reverse;
 }
 
 #three,
 #two,
 #one {
-  width: 10vw;
-  height: 10vw;
+  
 }
 
 #three {
-  order: 3;
+ 
 }
 
 #two {
-  order: 2;
+ 
 }
 
 #one {
-  order: 1;
+
 }
 
 @media screen and (min-width: 600px) {
-
+  
 }
 
 @media screen and (min-width: 800px) {
