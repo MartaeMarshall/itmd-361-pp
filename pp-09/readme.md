@@ -4,7 +4,7 @@ For this Production Problem, you and your group are going to establish your grou
 
 1. Choose one member who’s GitHub account will contain the group repository. Create it on that member’s local computer, along with an empty `README.md` file. Set up the remote repository, and push the initial commit containing the empty `README.md` file.
 
-Write the name of your group members here:
+Write the name of your group members here: Martae Marshall, Jonah Patinkin
 
 Write the URL for your shared repository here:
 
