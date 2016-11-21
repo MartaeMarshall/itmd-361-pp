@@ -6,7 +6,7 @@ For this Production Problem, you and your group are going to establish your grou
 
 Write the name of your group members here: Martae Marshall, Jonah Patinkin
 
-Write the URL for your shared repository here:
+Write the URL for your shared repository here: https://github.com/project3-js/project3-js
 
 2. Each member of the group should fork the repository (including the group member who’s account contains the group repository).
 
